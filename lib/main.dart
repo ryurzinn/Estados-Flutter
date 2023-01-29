@@ -1,5 +1,6 @@
-import 'package:estados/pagina1_page.dart';
-import 'package:estados/pagina2_page.dart';
+
+import 'package:estados/pages/pagina1_page.dart';
+import 'package:estados/pages/pagina2_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
